@@ -75,8 +75,8 @@ module.exports = {
     },
     etherscan: {
         apiKey: {
-            //goerli: 'R2DXFTWKN1EAAFMRCZAKSCAEUA9SYT6G19',
-            polygonMumbai: 'N8C8W1UXRHNW8P19A74TBIGMYCM4W37W6M'
+            //goerli: '',
+            polygonMumbai: ''
 
         }
     },
